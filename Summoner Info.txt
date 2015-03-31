@@ -1,0 +1,1 @@
+https://lan.api.pvp.net/api/lol/lan/v1.4/summoner/by-name/Meneaes?api_key=8227b949-a2fe-422c-8a31-88862dcbf88f
